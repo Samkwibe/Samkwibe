@@ -1,5 +1,97 @@
-# 💫 About Me:
-# 👋 Hi, I'm Samuel Kwibe<br><br>🎓 **Computer Science Student | Software Engineer | Cloud & DevOps Enthusiast**<br><br>I'm a Computer Science student at Southern New Hampshire University (SNHU) with a passion for building secure, scalable, and user-focused software.<br><br>💻 I enjoy working across the full development lifecycle—from designing front-end experiences to building back-end APIs, databases, authentication systems, and cloud deployments.<br><br>### 🚀 What I'm Focused On<br><br>* Full-Stack Software Development<br>* Backend Engineering & REST APIs<br>* Cloud Computing & AWS<br>* DevOps, CI/CD & Automation<br>* Software Security<br>* AI-powered applications<br><br>### 🛠️ Technologies<br><br>**Languages:** Python • Java • JavaScript • TypeScript • C++ • SQL<br>**Frontend:** React • Next.js • HTML • CSS<br>**Backend:** Node.js • Express.js<br>**Databases:** MongoDB • PostgreSQL • DynamoDB • Firebase/Firestore<br>**Cloud & Tools:** AWS • Docker • Git • GitHub • GitHub Actions • Vercel • Netlify<br><br>### 💡 Projects<br><br>I've worked on projects involving food-waste reduction, barcode scanning, AI-powered learning, cloud applications, secure authentication, analytics, and full-stack web development.<br><br>### 🎯 My Goal<br><br>I'm continuously improving my skills in **Software Engineering, Cloud Engineering, and DevOps**, with the long-term goal of becoming a **Cloud Architect** and building technology that solves meaningful real-world problems.<br><br>### 🤝 Let's Connect<br><br>I'm always interested in learning, collaborating on projects, and connecting with other developers and technology professionals.<br><br>> **Build. Learn. Improve. Repeat. 🚀**<br>
+# 👨‍💻 Samuel Kwibe
+
+### Software Engineer | Computer Science | Cloud & DevOps
+
+🎓 I'm a Computer Science student at **Southern New Hampshire University (SNHU)** focused on building **secure, scalable, and maintainable software systems**.
+
+💻 My experience spans the full software development lifecycle, including front-end development, back-end APIs, database design, authentication and authorization, automated testing, CI/CD pipelines, and cloud deployment.
+
+⚡ I enjoy solving technical problems, learning new technologies, and transforming ideas into reliable applications that address real-world challenges.
+
+---
+
+## 🎯 Technical Focus
+
+* 💻 Full-Stack Software Engineering
+* ⚙️ Backend Engineering & REST API Development
+* ☁️ Cloud Computing & AWS
+* ♾️ DevOps & CI/CD
+* 🔐 Software Security
+* 🗄️ Database Design & Management
+* 🧪 Automated Testing
+* 🤖 AI Integration
+
+---
+
+##
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 SkillRise — AI-Powered Learning Platform
+
+A full-stack learning platform integrating modern web technologies, cloud services, secure authentication, and AI-powered learning capabilities.
+
+**Technologies:** `Next.js` `TypeScript` `AWS` `DynamoDB` `AI Integration` `Authentication`
+
+### 🌱 Food Waste Tracking System
+
+A full-stack application designed to help organizations record, analyze, and reduce food waste through structured data collection and analytics.
+
+**Technologies:** `JavaScript` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` `Jest`
+
+### 📱 Food Barcode Scanner
+
+A Progressive Web Application that enables users to scan food products, manage inventory, track expiration dates, and discover recipes to help reduce food waste.
+
+**Technologies:** `React` `Firebase` `Firestore` `REST APIs` `PWA` `Authentication`
+
+---
+
+## 📚 Currently Developing
+
+* ☁️ AWS Cloud Architecture
+* ⚙️ Advanced Backend Engineering
+* 🐳 Docker & Containerization
+* ♾️ CI/CD & DevOps Automation
+* 🏗️ System Design
+* 🔐 Application Security
+* 🧪 Automated Testing
+* 🌐 Cloud-Native Development
+* 🤖 AI-Powered Applications
+
+---
+
+## 🧭 Career Direction
+
+My long-term professional path is focused on:
+
+### `Software/ AI  Engineering` → `Cloud Engineering` → `Cloud Architecture`
+
+I'm interested in opportunities where I can contribute to production software, strengthen my engineering skills, work with modern cloud infrastructure, and solve meaningful technical problems.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to:
+
+* 💼 Software Engineering opportunities
+* ☁️ Cloud & DevOps opportunities
+* 👨‍💻 Open-source contributions
+* 🤝 Technical collaborations
+* 🌐 Connecting with developers and technology professionals
+
+---
+
+<div align="center">
+
+### Build reliable systems. Keep learning. Solve meaningful problems.
+
+**Build • Learn • Improve • Repeat**
+
+</div>
 
 
 ## 🌐 Socials:
