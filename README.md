@@ -1,6 +1,6 @@
 # Samuel Kwibe
 
-### Computer Science Student · Software Engineering · AI Applications
+### Software Engineering · AI Applications
 
 I'm a Computer Science student at Southern New Hampshire University, based in Manchester, New Hampshire. I build web applications and develop my skills in backend APIs, databases, software security, and AI integration.
 
