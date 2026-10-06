@@ -1,6 +1,6 @@
 # 👨‍💻 Samuel Kwibe
 
-### Software Engineer | Computer Science | Cloud & DevOps
+### Software Engineer 
 
 🎓 I'm a Computer Science student at **Southern New Hampshire University (SNHU)** focused on building **secure, scalable, and maintainable software systems**.
 
